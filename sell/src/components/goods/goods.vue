@@ -3,11 +3,11 @@
 </template>
 
 <script type="text/ecamscript-6">
-export default {
+export default { 
 
 };
 </script>
 
 <style lang="stylus" rel='stylesheets/stylus'>
 
-</style>
+</style> 
