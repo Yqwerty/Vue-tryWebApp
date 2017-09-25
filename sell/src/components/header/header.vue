@@ -140,7 +140,7 @@ export default {
             width 12px
             height 12px
             margin-right 4px
-            background-size 12px
+            background-size 12px 12px
             background-repeat no-repeat
             &.decrease
               bg-image('decrease_1')
