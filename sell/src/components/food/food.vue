@@ -70,7 +70,7 @@ export default {
     show() {
       this.showFlag = true;
       this.selectType = ALL;
-      this.onlyContent = true;
+      this.onlyContent = false;
       this.$nextTick(() => {
         if (!this.scroll) {
           this.scroll = new BScroll(this.$els.food, {
